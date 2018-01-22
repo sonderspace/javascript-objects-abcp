@@ -8,3 +8,7 @@ function updatePlaylist(playlist, artistName, songTitle)
   // the key-value is assigned destructively
   playlist[artistName] = songTitle;
 }
+function removeFromPlaylist(playlist, artistName)
+{
+  
+}
