@@ -1,4 +1,6 @@
 let playlist = {
+  artist: 'norma',
+  song: 'she sings',
 }
 
 function updatePlaylist(playlist, artistName, songTitle)
